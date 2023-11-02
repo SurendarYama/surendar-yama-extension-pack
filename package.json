@@ -25,7 +25,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/SurendarYama/surendar-yama-extension-pack"
+    "url": "https://github.com/SurendarYama/surendar-yama-extension-pack.git"
   },
   "icon": "icon.png",
   "publisher": "surendaryama"
