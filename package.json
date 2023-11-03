@@ -2,7 +2,7 @@
   "name": "surendar-yama-extension-pack",
   "displayName": "Surendar Yama Extension Pack",
   "description": "Surendar Yama VSCode extensions",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.84.0"
   },
@@ -10,8 +10,6 @@
     "Extension Packs"
   ],
   "extensionPack": [
-    "Angular.ng-template",
-    "astro-build.astro-vscode",
     "bradlc.vscode-tailwindcss",
     "eamodio.gitlens",
     "esbenp.prettier-vscode",
