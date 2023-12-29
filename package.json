@@ -2,7 +2,7 @@
   "name": "surendar-yama-extension-pack",
   "displayName": "Surendar Yama Extension Pack",
   "description": "Surendar Yama VSCode extensions",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.84.0"
   },
@@ -10,6 +10,7 @@
     "Extension Packs"
   ],
   "extensionPack": [
+    "ms-vscode.vscode-typescript-next",
     "bradlc.vscode-tailwindcss",
     "eamodio.gitlens",
     "esbenp.prettier-vscode",
