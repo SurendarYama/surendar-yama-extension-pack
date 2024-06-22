@@ -2,7 +2,7 @@
   "name": "surendar-yama-extension-pack",
   "displayName": "Surendar Yama Extension Pack",
   "description": "Surendar Yama VSCode extensions",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "engines": {
     "vscode": "^1.84.0"
   },
@@ -12,12 +12,12 @@
   "extensionPack": [
     "ms-vscode.vscode-typescript-next",
     "bradlc.vscode-tailwindcss",
-    "eamodio.gitlens",
     "esbenp.prettier-vscode",
-    "jtlowe.vscode-icon-theme",
-    "miguelsolorio.fluent-icons",
+    "pkief.material-icon-theme",
     "piotrpalarz.vscode-gitignore-generator",
     "ritwickdey.LiveServer",
+    "drcika.apc-extension",
+    "surendar-kalyanam.surendar-yama",
     "surendaryama.my-buddy",
     "usernamehw.errorlens",
     "wix.vscode-import-cost",
