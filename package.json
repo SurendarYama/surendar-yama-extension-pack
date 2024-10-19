@@ -2,7 +2,7 @@
   "name": "surendar-yama-extension-pack",
   "displayName": "Surendar Yama Extension Pack",
   "description": "Surendar Yama VSCode extensions",
-  "version": "0.0.13",
+  "version": "0.0.14",
   "engines": {
     "vscode": "^1.84.0"
   },
@@ -16,7 +16,7 @@
     "jtlowe.vscode-icon-theme",
     "piotrpalarz.vscode-gitignore-generator",
     "ritwickdey.LiveServer",
-    "drcika.apc-extension",
+    "be5invis.vscode-custom-css",
     "surendar-kalyanam.surendar-yama",
     "surendaryama.my-buddy",
     "usernamehw.errorlens",
