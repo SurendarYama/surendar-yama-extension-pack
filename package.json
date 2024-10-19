@@ -2,7 +2,7 @@
   "name": "surendar-yama-extension-pack",
   "displayName": "Surendar Yama Extension Pack",
   "description": "Surendar Yama VSCode extensions",
-  "version": "0.0.14",
+  "version": "0.0.15",
   "engines": {
     "vscode": "^1.84.0"
   },
@@ -24,7 +24,8 @@
     "rangav.vscode-thunder-client",
     "adpyke.codesnap",
     "orta.vscode-twoslash-queries",
-    "angular.ng-template"
+    "angular.ng-template",
+    "analogjs.vscode-analog"
   ],
   "repository": {
     "type": "git",
