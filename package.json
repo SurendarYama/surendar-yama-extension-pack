@@ -2,7 +2,7 @@
   "name": "surendar-yama-extension-pack",
   "displayName": "Surendar Yama Extension Pack",
   "description": "Surendar Yama VSCode extensions",
-  "version": "0.0.16",
+  "version": "0.0.17",
   "engines": {
     "vscode": "^1.84.0"
   },
@@ -16,8 +16,6 @@
     "piotrpalarz.vscode-gitignore-generator",
     "ritwickdey.LiveServer",
     "be5invis.vscode-custom-css",
-    "surendar-kalyanam.surendar-yama",
-    "surendaryama.my-buddy",
     "usernamehw.errorlens",
     "wix.vscode-import-cost",
     "rangav.vscode-thunder-client",
@@ -25,7 +23,8 @@
     "orta.vscode-twoslash-queries",
     "angular.ng-template",
     "miguelsolorio.fluent-icons",
-    "chadalen.vscode-jetbrains-icon-theme"
+    "chadalen.vscode-jetbrains-icon-theme",
+    "zhuangtongfa.material-theme"
   ],
   "repository": {
     "type": "git",
